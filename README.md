@@ -1,2 +1,2 @@
 # apnacollege-demo
-This is my first gthub project
+This is my first github project
